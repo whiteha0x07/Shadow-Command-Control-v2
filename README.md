@@ -2,6 +2,8 @@
 
 This is the SC2 (Shadow Command & control) server version 2. This version has made significant improvements from that last version (currently archived) which has the main features such as a main navigation menu, passive backdoor listener and better command execution on the backdoor.
 
+![Uploading Screenshot 2023-08-11 at 9.18.04 PM.png…]()
+
 # List of all Improvments & Updates 
 
 ~Listener module seperated from the main user interface along with passive listener on boot. 
