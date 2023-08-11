@@ -1,2 +1,18 @@
 # Shadow-Command-Control-v2
-Shadow Command and Control v2. This project is currently being updated to v3 with more features and backdoor capabilities, this repository is for anyone that wants to learn how C2 and Backdoors work.
+
+This is the SC2 (Shadow Command & control) server version 2. This version has made significant improvements from that last version (currently archived) which has the main features such as a main navigation menu, passive backdoor listener and better command execution on the backdoor.
+
+# List of all Improvments & Updates 
+
+~Listener module seperated from the main user interface along with passive listener on boot. 
+
+~Formatting (mostly) in JSON files. C2 server is able to read system Information of compromised systems connected to server. 
+
+~Backdoor sleeper capabilites reworked; will stay dormant listening for shell connection request without crashing. 
+
+~Added command line interface, able to run various commands.
+
+~Backdoor rarely crashes unless an abnormal command is sent from the C2 
+
+~Added a logging feature that automatically stores the system information and IP address in a folder in the same directory.
+
