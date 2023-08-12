@@ -34,6 +34,8 @@ SC2 is made strictly for educational purposes and is not meant to be used malici
 
 ~Options for enabling connection through TOR or VPS
 
+This repository is meant as a tutorial and guide for beginners looking to learn how to progam hacking software; you can find the explanation here: https://medium.com/@whiteha0x07mania/programming-a-malicious-backdoor-and-c2-server-in-python-eda6e6a57257
+
 ~Compatabilility with Metasploit and other hacking frameworks 
 
 
